@@ -79,6 +79,9 @@ div {
 .yellow p,h2 {
     color: #707070;
 }
+.yellow h2 {
+    color: #707070;
+}
 
 .green {
     min-height: 125px;
