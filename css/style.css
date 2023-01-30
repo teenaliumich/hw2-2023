@@ -32,7 +32,7 @@ img {
 div {
 	height: 180px;
 	padding: 20px;
-	border: solid;
+	border: 3px solid #FFFFFF;
 }
 
 .introduction {
