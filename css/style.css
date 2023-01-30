@@ -63,7 +63,10 @@ div {
     margin-right: 50px;
     border-width: 2px 5px 0px 0px;
 }
-.blue p,h2 {
+.blue p {
+    color: #c4c4c4;
+}
+.blue h2 {
     color: #c4c4c4;
 }
 
