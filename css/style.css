@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, Verdana;
+    background: #000000;
+    color: #FFFFFF;
+    margin: 20px 20px 0px 20px;
+}
+
+h1 {
+	font-size: 42px;
+	text-align: center;
+	padding: 15px;
+}
+
+h2 {
+	font-size: 30px;
+	color: #0d0d0d;
+}
+
+p {
+	font-size: 24px;
+	padding: 10px 0px 0px 10px;
+}
+
+img {
+	width: 250px;
+	margin: auto;
+	display: block;
+	border: dashed #FFFFFF;
+
+}
+
+div {
+	height: 180px;
+	padding: 20px;
+	border: solid;
+}
+
+.introduction {
+	border-radius: 15px;
+	margin-top: 15px;
+	line-height: 2;
+}
+
+.red {
+    background: #FF0000;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px;
+    border-left: 5px;
+}
+
+.blue {
+    background: #0000FF;
+    text-align: left;
+    margin-right: 50px;
+    border-right: 5px;
+    border-top: 2px;
+}
+.blue p,h2 {
+    color: #c4c4c4;
+}
+
+.yellow {
+    background: #FFFF00;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px;
+    border-left: 5px;
+}
+.yellow p {
+    color: #707070;
+}
+
+.green {
+    background: #00EB00;
+    text-align: left;
+    margin-right: 50px;
+    border-right: 5px;
+    border-top: 2px;
+}
+
+footer {
+    background: linear-gradient(#000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
+    border: 5px solid #FFFFFF;
+}
+footer p {
+    font-size: 20px;
+    text-align: right;
+    padding-top: 15px 15px 15px 0px;
+}
